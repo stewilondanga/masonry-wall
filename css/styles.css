@@ -30,7 +30,7 @@ body {
 
 /* clearfix */
 
-/*.grid:after {
+.grid:after {
   content: '';
   display: block;
   clear: both;
