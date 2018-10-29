@@ -7,7 +7,7 @@ var navigate = (function() {
   });
 })();
 
-/*$('.grid').scripts({
+$('.grid').scripts({
   itemSelector: '.grid-item',
   columnWidth: 160
 });
