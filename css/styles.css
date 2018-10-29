@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,11 +25,12 @@
   height: 1.5em;
 }
 
-* { box-sizing: border-box; }
+
 
 body { font-family: sans-serif; }
 
 /* ---- grid ---- */
+
 /*
 .grid {
   background: #EEE;
@@ -33,6 +38,7 @@ body { font-family: sans-serif; }
 }
 
 /* clearfix */
+
 /*.grid:after {
   content: '';
   display: block;
@@ -40,6 +46,7 @@ body { font-family: sans-serif; }
 }
 
 /* ---- grid-item ---- */
+
 /*
 .grid-item {
   width: 160px;
